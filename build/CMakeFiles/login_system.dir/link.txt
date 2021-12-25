@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/login_system.dir/src/main.cpp.o CMakeFiles/login_system.dir/src/reg.cpp.o CMakeFiles/login_system.dir/src/database.cpp.o CMakeFiles/login_system.dir/src/file.cpp.o -o login_system 

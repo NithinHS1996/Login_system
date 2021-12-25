@@ -1,0 +1,3 @@
+/home/nithin/Everything/Linux_with_c++/Project_one/build/CMakeFiles/login_system.dir
+/home/nithin/Everything/Linux_with_c++/Project_one/build/CMakeFiles/edit_cache.dir
+/home/nithin/Everything/Linux_with_c++/Project_one/build/CMakeFiles/rebuild_cache.dir
